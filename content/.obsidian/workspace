@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "1f5cddd362734b2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e8ac4585ed4470b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "garden/hello.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "712217fcc6a87205",
+    "type": "split",
+    "children": [
+      {
+        "id": "78a03eea6810f2f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7785161c4354308a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4c585c93b2ce2b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11e241718139b3e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "452c833c2778cbec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f56c121b10ed53e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "garden/hello.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9e8ac4585ed4470b",
+  "lastOpenFiles": [
+    "garden/hello.md"
+  ]
+}
