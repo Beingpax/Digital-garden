@@ -9,6 +9,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `Site title`,
+    title: `🌱Digital Garden`,
   },
 }
