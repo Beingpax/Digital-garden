@@ -34,7 +34,7 @@ Be a man who is worthyof being vowed to. Be so through uncompromising sincerity.
 Even the people who succeed don't understand about success. It's a self-created drams.
 Hard work and practice are for those who try to become that which they secretly believe that is difficult for them to become.
 
-## [[Readwise/Books/How to Live]] in ease
+## [[How to Live]] in ease
 You may hear me, but in many ways the words will pass by. Anxiety and stress are a by-product and it can't be eliminated head-on. You must find the source from which it arises.
 
 If you want to live a life of freedom and completely free of turmoil, you must have overwhelmingly genuine desire to live a lfie of Freedom. If your desire is genuine, learning will come. All things come by the way of sincerity.

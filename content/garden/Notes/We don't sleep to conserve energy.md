@@ -5,6 +5,6 @@ There's much more happening in the body when we are sleeping.
 Research and experiments show that sleep-depriving an individual for twenty-four hours straight and they will only burn an extra 147 calories, relative to a twenty-four-hour period containing a full eight hours of sleep.
 
 ---
-Reference: [[202107010744-  Why We Sleep Book Summary]]
+Reference: [[Why We Sleep]]
 Type: #permanentnote 
 Topics:[[Sleep]] 
