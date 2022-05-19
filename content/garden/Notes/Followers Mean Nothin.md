@@ -1,5 +1,5 @@
 
-**Reference:** [[202109222053-Why 80,000 Followers On Medium Means Nothing]]
+**Reference:** [[Why 80,000 Followers On Medium Means Nothing]]
 **Type:** #permanentnote 
 **Topics:** [[Social Media]] [[Content Creation]] [[Make Money Online]]
 

@@ -1,5 +1,5 @@
 
-**Reference:** [[202109191154- Who Moved My Cheese]]
+**Reference:** [[Who Moved My Cheese]]
 **Type:** #permanentnote 
 **Topics:** [[Change]] [[Fundamental Truths of Life]]
 

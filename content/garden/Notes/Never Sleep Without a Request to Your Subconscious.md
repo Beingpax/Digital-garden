@@ -1,5 +1,5 @@
 
-**Reference:** [[202108231612- This 10 minute routine will increase your clarity and creativity]]
+**Reference:** [[This 10 minute routine will increase your clarity and creativity]]
 **Type:** #permanentnote 
 **Topics:** [[Mind]] [[Sub-conscious]] [[Things To Do Before Sleeping]]
 **Related:**

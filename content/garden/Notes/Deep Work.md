@@ -1,5 +1,5 @@
 
-**Reference:** [[@ Why you should manage your energy and not your time]]
+**Reference:** [[Why you should manage your energy and not your time]]
 **Type:** #permanentnote 
 **Topics:** [[Time vs energy]]
 

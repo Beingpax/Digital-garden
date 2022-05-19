@@ -12,5 +12,5 @@ Gary Vee is the master of content repulishing.
 ----
 **Type:** #permanentnote 
 **Topics:** [[Content Creation]]
-**Reference:** [[@ Your Path ot 10,000 Linkedin Views]]
+**Reference:** [[Your Path ot 10,000 Linkedin Views]]
 

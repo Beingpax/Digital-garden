@@ -1,4 +1,4 @@
-**Reference:** [[202108112238- How to Motivate Yoursel to Write Every Day]]
+**Reference:** [[How to Motivate Yoursel to Write Every Day]]
 **Type:** #permanentnote 
 **Topics:** [[Writing]] [[Writing Habit]] [[How to build a writing habit]]
 

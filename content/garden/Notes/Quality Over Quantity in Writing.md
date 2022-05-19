@@ -9,5 +9,5 @@ Creating a mediocre content is more risky than taking risk with blockbuster mode
 ----
 **Type:** #permanentnote 
 **Topics:**
-**Reference:** [[@ The 1 Mental Model For Writers Who Want To Create High-Quality, Viral Content]]
+**Reference:** [[The 1 Mental Model For Writers Who Want To Create High-Quality, Viral Content]]
 

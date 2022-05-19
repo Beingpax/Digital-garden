@@ -1,7 +1,7 @@
 
-**Reference:** [[@ The age of infinite leverage]]
+**Reference:** [[The age of infinite leverages]]
 **Type:** #permanentnote 
-**Topics:** [[@ The Great Online Game]] [[Content Creation]] [[Make Money Online]]
+**Topics:** [[🌻References/The Great Online Game]] [[Content Creation]] [[Make Money Online]]
 
 ----
 We're living at the age of infinite leverage. Our efforts, skils and judgement can be multiplied 10x, 100x, 100x, or even more. No one in the history had this opportunity to leverage themselves.

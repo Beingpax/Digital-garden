@@ -1,5 +1,5 @@
 
-**Reference:** [[@ Ryan holiday has shown how to becom an unstoppable internet force]]
+**Reference:** [[Ryan holiday has shown how to becom an unstoppable internet force]]
 **Type:** #permanentnote 
 **Topics:** [[Content Creation]] [[Make Money Online]] 
 

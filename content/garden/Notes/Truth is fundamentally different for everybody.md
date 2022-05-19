@@ -8,7 +8,7 @@ It is available to everybody but very few reach for it. Truth is the birthright 
 ----
 **Type:** #permanentnote 
 **Topics:** [[Finding Truth]]
-**Reference:** [[& A Master's Secret Whispers]]
+**Reference:** [[A Master's Secret Whispers]]
 
 
 

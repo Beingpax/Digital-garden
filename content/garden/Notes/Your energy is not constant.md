@@ -1,4 +1,4 @@
-**Reference:** [[@ Manage energy not your time]]
+**Reference:** [[Manage energy not your time]]
 **Type:** #permanentnote 
 **Topics:** [[Time vs energy]]
 

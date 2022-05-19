@@ -1,5 +1,5 @@
 
-**Reference:** [[202109300740- How to Republish Content and 10X your Views]] [[202109281942- How to Produce Content 365 Days a Year — Flat Pack]]
+**Reference:** [[How to Republish Content and 10X your Views]] [[How to Produce Content 365 Days a Year — Flat Pack]]
 **Type:** #permanentnote 
 **Topics:** [[Content Creation]] [[Side Hustle]] [[Writing]]
 **Related:**

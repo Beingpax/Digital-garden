@@ -1,5 +1,5 @@
 
-**Reference:** [[@ The guilty, crazy secret that helps me write]]
+**Reference:** [[🌻References/The guilty, crazy secret that helps me write]]
 **Type:** #permanentnote 
 **Topics:** [[Creativity]] [[Writing]] [[Writing Tips]]
 

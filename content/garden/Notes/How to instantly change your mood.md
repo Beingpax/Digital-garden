@@ -1,5 +1,5 @@
 
-**Reference:** [[+Deep Breathing is the secret to your unkown power.]]
+**Reference:** [[Deep Breathing is the secret to your unkown power.]]
 **Type:** #permanentnote 
 **Topics:** [[Meditation]] [[Pranayama]] 
 **Related:**

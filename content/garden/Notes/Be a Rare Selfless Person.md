@@ -10,5 +10,5 @@ No one helps anyone. Everybody do what is in their nature to do.
 ----
 **Type:** #permanentnote 
 **Topics:** [[Human nature]]
-**Reference:** [[& A Master's Secret Whispers]]
+**Reference:** [[A Master's Secret Whispers]]
 

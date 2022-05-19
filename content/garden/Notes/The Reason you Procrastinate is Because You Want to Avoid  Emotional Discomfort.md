@@ -1,6 +1,6 @@
 
 
-**Reference:** [[202108112251- How to Stop Procrastination by Confronting Your Avoidance]]
+**Reference:** [[How to Stop Procrastination by Confronting Your Avoidance]]
 **Type:** #permanentnote 
 **Topics:** [[Procrastination]] [[Productivity]]
 

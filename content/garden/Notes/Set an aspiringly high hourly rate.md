@@ -1,5 +1,5 @@
 
-**Reference:** [[Set an Aspirational Hourly Rate]]
+**Reference:** [[Readwise/Articles/Set an Aspirational Hourly Rate]]
 **Type:** #permanentnote 
 **Topics:** [[Time Management]] [[Productivity]]
 

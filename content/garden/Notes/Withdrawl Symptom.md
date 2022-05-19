@@ -1,5 +1,5 @@
 
-**Reference:** [[@ What if you stop eating sugar for 30 days]]
+**Reference:** [[What if you stop eating sugar for 30 days]]
 **Type:** #permanentnote 
 **Topics:** [[Addiction]] [[How to cure addiction]]
 

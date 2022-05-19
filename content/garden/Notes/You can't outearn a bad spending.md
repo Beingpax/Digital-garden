@@ -1,5 +1,5 @@
 
-**Reference:** [[@ Money cheat codes I stole from people smarter than me]]
+**Reference:** [[Money cheat codes I stole from people smarter than me]]
 **Type:** #permanentnote 
 **Topics:** [[Money]] [[Habits that will make you poor forever]]
 

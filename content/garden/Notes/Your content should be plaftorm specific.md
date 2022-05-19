@@ -8,5 +8,5 @@ You can't just copy paste content from one platform to another. Your content sho
 ----
 **Type:** #permanentnote 
 **Topics:** [[How to republish content]]
-**Reference:** [[@ Your Path ot 10,000 Linkedin Views]]
+**Reference:** [[Your Path ot 10,000 Linkedin Views]]
 

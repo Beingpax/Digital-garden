@@ -1,5 +1,5 @@
 
-**Reference:** [[202109041945- How to write an exceptional article for better humans]]
+**Reference:** [[How to write an exceptional article for better humans]]
 **Type:** #permanentnote 
 **Topics:** [[Writing]][[Writing Tips]] [[Tips to Write an Exceptional Article]]
 **Related:**

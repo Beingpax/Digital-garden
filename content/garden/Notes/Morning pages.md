@@ -1,5 +1,5 @@
 
-**Reference:** [[@ Better than meditation]]
+**Reference:** [[🌻References/Better than meditation]]
 **Type:** #permanentnote 
 **Topics:** [[Writing]] [[Meditation]]
 

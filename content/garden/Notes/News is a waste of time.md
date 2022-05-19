@@ -1,5 +1,5 @@
 
-**Reference:** [[@ I hate the news]]
+**Reference:** [[🌻References/I hate the news]]
 **Type:** #permanentnote 
 **Topics:** [[Social Media]] [[Mindfulness]]
 

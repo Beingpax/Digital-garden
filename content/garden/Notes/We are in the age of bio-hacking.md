@@ -12,5 +12,5 @@ You have to run faster than technology. Know yourself before the technology and 
 ----
 **Type:** #permanentnote 
 **Topics:**
-**Reference:** [[@ Yuval Noah Harari on What the Year 2050 Has in Store for Humankind]]
+**Reference:** [[🌻References/Yuval Noah Harari on What the Year 2050 Has in Store for Humankind]]
 

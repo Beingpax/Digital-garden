@@ -1,5 +1,5 @@
 
-**Reference:** [[@Save time by automating your life]]
+**Reference:** [[Save time by automating your life]]
 **Type:** #permanentnote 
 **Topics:** [[Productivity]] [[how to have more time]] [[Time Management]]
 

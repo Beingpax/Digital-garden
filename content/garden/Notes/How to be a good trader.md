@@ -16,5 +16,5 @@ And when he trades, he trades without fear. He has nothing to lose.
 ----
 **Type:** #permanentnote 
 **Topics:** [[How to Master Trading]]
-**Reference:** [[& A Master's Secret Whispers]]]
+**Reference:** [[A Master's Secret Whispers]]]
 

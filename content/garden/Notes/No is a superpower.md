@@ -1,5 +1,5 @@
 
-**Reference:** [[@ The 1 Rule of NO]]
+**Reference:** [[The 1 Rule of NO]]
 **Type:** #permanentnote 
 **Topics:** [[Time Management]] [[Productivity]] [[How to Make More Time]]
 

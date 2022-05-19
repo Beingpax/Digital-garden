@@ -1,5 +1,5 @@
 
-**Reference:** [[@ You’re Trying to Do Too Much. Why our enthusiasm fails to translate]]
+**Reference:** [[You’re Trying to Do Too Much. Why our enthusiasm fails to translate]]
 **Type:** #permanentnote 
 **Topics:** [[Focus]] [[Success]]
 

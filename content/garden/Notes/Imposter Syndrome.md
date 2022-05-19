@@ -15,5 +15,5 @@ Nobody is thinking you are an imposter, Everyone is thinking about themselves.
 ----
 **Type:** #permanentnote 
 **Topics:** [[Creative Struggles]]
-**Reference:** [[@ The Brutal Truth About Reading If You Don’t Take Notes Right, You’ll Forget Nearly Everything]]
+**Reference:** [[The Brutal Truth About Reading If You Don’t Take Notes Right, You’ll Forget Nearly Everything]]
 

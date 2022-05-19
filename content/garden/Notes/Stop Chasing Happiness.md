@@ -11,5 +11,5 @@ Chasing happiness means you are wishing for circumstances to go your way forever
 ----
 **Type:** #permanentnote 
 **Topics:** [[Happiness]]
-**Reference:** [[& A Master's Secret Whispers]]
+**Reference:** [[A Master's Secret Whispers]]
 

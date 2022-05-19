@@ -1,5 +1,5 @@
 
-**Reference:** [[@ The point is to stop]]
+**Reference:** [[The point is to stop]]
 **Type:** #permanentnote 
 **Topics:** [[Personal Development]]
 

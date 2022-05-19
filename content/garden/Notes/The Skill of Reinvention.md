@@ -7,5 +7,5 @@ If you want to stay up to date and relevant, you will need to constantly learn r
 ----
 **Type:** #permanentnote 
 **Topics:**[[How to reinvent yourself]]
-**Reference:** [[@ Yuval Noah Harari on What the Year 2050 Has in Store for Humankind]]
+**Reference:** [[🌻References/Yuval Noah Harari on What the Year 2050 Has in Store for Humankind]]
 

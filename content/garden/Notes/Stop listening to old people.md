@@ -12,5 +12,5 @@ The adults don't understand the modern world. With the speed its moving forward,
 ----
 **Type:** #permanentnote 
 **Topics:** 
-**Reference:** [[@ Yuval Noah Harari on What the Year 2050 Has in Store for Humankind]]
+**Reference:** [[🌻References/Yuval Noah Harari on What the Year 2050 Has in Store for Humankind]]
 

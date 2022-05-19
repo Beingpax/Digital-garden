@@ -1,4 +1,4 @@
-**Reference:** [[202108231611- The Idea to Paper Process I followed to Publish 176 Articles in 6 Monts]]
+**Reference:** [[The Idea to Paper Process I followed to Publish 176 Articles in 6 Monts]]
 **Type:** #permanentnote 
 **Topics:** [[Writing]] [[Tips for Beginner Writers who want to make money online]]
 **Related:**

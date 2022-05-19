@@ -1,4 +1,4 @@
-**Reference:** [[@ Personal Growth Means Recognizing Youre the Sum of Your Inputs]]
+**Reference:** [[🌻References/Personal Growth Means Recognizing Youre the Sum of Your Inputs]]
 **Type:** #permanentnote 
 **Topics:** 
 

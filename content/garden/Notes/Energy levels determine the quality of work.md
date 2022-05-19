@@ -1,5 +1,5 @@
 
-**Reference:** [[@ This Is How I Got Superhuman Energy Levels]]
+**Reference:** [[This Is How I Got Superhuman Energy Levels]]
 **Type:** #permanentnote 
 **Topics:** [[Productivity]] [[How to be Energized every time]] [[Time Management]]
 

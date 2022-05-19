@@ -1,4 +1,4 @@
-**Reference:** [[@ Why So Many Writers Fail to Make Money]]
+**Reference:** [[🌻References/Why So Many Writers Fail to Make Money]]
 **Type:** #permanentnote 
 **Topics:** [[Writing]] [[Make Money Online]] [[How to be a good writer]]
 

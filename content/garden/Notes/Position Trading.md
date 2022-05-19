@@ -1,5 +1,5 @@
 
-**Reference:** [[202108231613- Three Lines Forecasting Forex Price Action]]
+**Reference:** [[Three Lines Forecasting Forex Price Action]]
 **Type:** #permanentnote 
 **Topics:** [[💹Stock Market]] [[Trading]] [[Types of Trading]]
 **Related:** [[Swing Trading]]

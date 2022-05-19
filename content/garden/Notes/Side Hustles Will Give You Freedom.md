@@ -1,5 +1,5 @@
 
-**Reference:** [[202109300745- Side Hustles Are the Fastest Way to Financial Freedom]]
+**Reference:** [[Side Hustles Are the Fastest Way to Financial Freedom]]
 **Type:** #permanentnote 
 **Topics:** [[Money]] [[Side Hustle]] [[Content Creation]]
 **Related:** 

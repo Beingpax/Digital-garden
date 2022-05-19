@@ -1,6 +1,6 @@
 
 
-**Reference:** [[202108231606- Write Simply]]
+**Reference:** [[Write Simply]]
 **Type:** #permanentnote 
 **Topics:** [[Writing]] [[Writing Tips]]
 

@@ -1,4 +1,4 @@
-**Reference:** [[& The Almanack of Naval Ravikant]]
+**Reference:** [[The Almanack of Naval Ravikant]]
 **Type:** #permanentnote 
 **Topics:** [[Passion]] [[How to Find your Passion]]
 **Related:** [[passion]]

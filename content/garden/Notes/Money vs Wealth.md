@@ -1,5 +1,5 @@
 
-**Reference:** [[& The Almanack of Naval Ravikant]]
+**Reference:** [[The Almanack of Naval Ravikant]]
 **Type:** #permanentnote 
 **Topics:** [[Money]] [[Wealth]] 
 **Related:** [[Every One Wants Money]] 

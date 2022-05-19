@@ -1,4 +1,4 @@
-**Reference:** [[202109281942- How to Produce Content 365 Days a Year — Flat Pack]]
+**Reference:** [[How to Produce Content 365 Days a Year — Flat Pack]]
 **Type:** #permanentnote 
 **Topics:** [[Content Creation]] [[Side Hustle]] [[Writing]]
 **Related:** [[Side Hustles Will Give You Freedom]]

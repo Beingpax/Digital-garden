@@ -1,6 +1,6 @@
 
 
-**Reference:** [[202108112239- The Secret to Happiness]]
+**Reference:** [[The Secret to Happiness]]
 **Type:** #permanentnote 
 **Topics:** [[Happiness]] [[How to Be Happy]]  
 

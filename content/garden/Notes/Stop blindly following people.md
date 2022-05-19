@@ -1,5 +1,5 @@
 
-**Reference:** [[@ I Stopped Consuming Content When I Learnt This]]
+**Reference:** [[I Stopped Consuming Content When I Learnt This]]
 **Type:** #permanentnote 
 **Topics:** [[Personal Development]]
 

@@ -8,5 +8,5 @@ If you want to be a good parent, you have to release yourself from the role of p
 ----
 **Type:** #permanentnote 
 **Topics:** [[Parenting]]
-**Reference:** [[& A Master's Secret Whispers]]
+**Reference:** [[A Master's Secret Whispers]]
 

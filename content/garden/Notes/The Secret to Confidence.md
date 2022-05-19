@@ -10,5 +10,5 @@ And indifference is the byproduct that comes when you learn that nothing really 
 ----
 **Type:** #permanentnote 
 **Topics:** [[Confidence]]
-**Reference:** [[& A Master's Secret Whispers]]
+**Reference:** [[A Master's Secret Whispers]]
 

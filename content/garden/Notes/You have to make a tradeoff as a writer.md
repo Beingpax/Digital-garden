@@ -1,4 +1,4 @@
-**Reference:** [[@Work, Family, Scene You Can Only Pick Two]]
+**Reference:** [[Work, Family, Scene You Can Only Pick Two]]
 **Type:** #permanentnote 
 **Topics:** [[Writing]] [[Content]] [[Work-life Balance]]
 

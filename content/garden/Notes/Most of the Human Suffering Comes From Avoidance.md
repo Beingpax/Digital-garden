@@ -1,5 +1,5 @@
 
-**Reference:** [[& The Almanack of Naval Ravikant]]
+**Reference:** [[The Almanack of Naval Ravikant]]
 **Type:** #permanentnote 
 **Topics:** [[Self-Discipline]] [[Happiness]] 
 **Related:** [[Easy Choices Makes life hard, Hard Choices Makes Life Easy]]

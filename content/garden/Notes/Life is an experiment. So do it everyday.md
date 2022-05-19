@@ -1,5 +1,5 @@
 
-**Reference:** [[@ Why I Experiment Every Day]]
+**Reference:** [[🌻References/Why I Experiment Every Day]]
 **Type:** #permanentnote 
 **Topics:** [[Life Lessons]] [[Personal Development]] [[How to Find your Passion]]
 

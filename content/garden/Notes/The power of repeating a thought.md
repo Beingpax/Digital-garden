@@ -9,5 +9,5 @@ Practice one thought until it becomes the primary loop. Just pick one thought an
 ----
 **Type:** #permanentnote 
 **Topics:** [[Self-love]] [[Visualization]] [[The power of doing the same thing again and again]]
-**Reference:** [[& Love Yourself Like Your Life Depends on It]]
+**Reference:** [[Love Yourself Like Your Life Depends on It]]
 

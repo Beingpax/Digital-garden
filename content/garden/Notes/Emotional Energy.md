@@ -1,5 +1,5 @@
 
-**Reference:** [[@ Why managing energy not time is the key to producitivity]]
+**Reference:** [[Why managing energy not time is the key to producitivity]]
 **Type:** #permanentnote 
 **Topics:**[[Time vs energy]]
 

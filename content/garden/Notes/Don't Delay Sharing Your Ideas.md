@@ -8,5 +8,5 @@ The idea becomes more and more obvious and you start to lose your empathy for wh
 ----
 **Type:** #permanentnote 
 **Topics:**
-**Reference:** [[@ The Brutal Truth About Reading If You Don’t Take Notes Right, You’ll Forget Nearly Everything]]
+**Reference:** [[The Brutal Truth About Reading If You Don’t Take Notes Right, You’ll Forget Nearly Everything]]
 

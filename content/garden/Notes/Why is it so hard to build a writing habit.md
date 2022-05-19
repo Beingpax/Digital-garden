@@ -41,7 +41,7 @@ This will create a structure in  your mind. You can't train your brain to write 
 
 
 ---------
-[[@Which works better habits or projects]]
+[[Which works better habits or projects]]
 
 
 

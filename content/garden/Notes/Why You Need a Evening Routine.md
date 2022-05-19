@@ -1,4 +1,4 @@
-**Reference:** [[202109180739- 5 Practices to Include in Your Evening Routine]]
+**Reference:** [[5 Practices to Include in Your Evening Routine]]
 **Type:** #permanentnote 
 **Topics:** [[Habits]] [[Rituals]] 
 **Related:**

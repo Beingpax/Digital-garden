@@ -1,5 +1,5 @@
 
-**Reference:** [[& The Almanack of Naval Ravikant]]
+**Reference:** [[The Almanack of Naval Ravikant]]
 **Type:** #permanentnote 
 **Topics:** [[Productivity]] [[Focus]] [[Decision Making]] [[Time Management]] [[How to Make More Time]]
 **Related:** [[Priortize & Focus]]

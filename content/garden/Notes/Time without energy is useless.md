@@ -1,5 +1,5 @@
 
-**Reference:** [[@ Time Management is a waste of time Manage your energy instead]]
+**Reference:** [[Time Management is a waste of time Manage your energy instead]]
 **Type:** #permanentnote 
 **Topics:** [[Time vs energy]]
 

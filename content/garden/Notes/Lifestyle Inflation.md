@@ -1,5 +1,5 @@
 
-**Reference:** [[@ Follow these 3 rules to build financial freedom]]
+**Reference:** [[Follow these 3 rules to build financial freedom]]
 **Type:** #permanentnote 
 **Topics:**
 
