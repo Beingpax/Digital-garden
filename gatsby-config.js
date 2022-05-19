@@ -9,6 +9,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `🌱Digital Garden`,
+    title: `Pax's Second Brain🧠`,
   },
 }
