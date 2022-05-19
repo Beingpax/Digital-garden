@@ -51,6 +51,8 @@
 
 > "The loss of money didn't bother me. Whenever I lost money in the stock market I always considered that I learned something; that if I have lost money I have gained experience, so that the money really went for a tuition fee. A man has to have experience and he has to pay for it." - Jesse Livermore
 
+> The primary job of the market speculator is not to find the next big winner. Rather the primary job is to properly manage the next losing trade. Finding big winners provides the thrills, but managing risk pays the bills.
+
 
 ----
 Type: [[Quotes]] [[Trading]] [[💹Stock Market]]

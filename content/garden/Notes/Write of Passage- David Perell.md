@@ -1,7 +1,7 @@
 **Creator:** David Perell
 **Price:** $7000
 **Link:** https://writeofpassage.school/
-**Type:** #litnote #todevelop [[Courses💻]]
+**Type:** #litnote #todevelop [[Courses]]
 **Topics:** [[Writing]] [[Content Creation]] [[Make Money Online]]
 
 ---
