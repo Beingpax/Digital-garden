@@ -8,9 +8,9 @@ This is a place where I share all of my notes. Most of these notes are my ideas 
 
 ### How to navigate my [[second brain]]🧠?
 
-There's no navigation to start from. You can start with a note and start diving deep into a diverse ecosystem of ideas. 
+These notes are "choose your adventure". There is no index of these notes anywhere. You can start with a note and start diving deep into a diverse ecosystem of ideas. 
 	                                       **Or**
-You can search for topics that intrtest you and start exploring ideas. 
+You can search for topics that interests you and see where they lead you
 
 ##### Here's a good way to start:
 - [[Books]]: This contains notes from the books I've read. I get most of the ideas from reading books. Dive in.
@@ -31,3 +31,5 @@ You are free to roam anywhere from here. But remember, some ideas or notes might
 The purpose of writing and publishing these notes is to practice [[Learning in public]] & [[building in public]].
 
 ---
+
+If you think this note resonated, be it positive or negative, ping me on Twitter.
