@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "garden/Notes/Blend Two Common Ideas to Create an Exceptional Article.md",
-            "mode": "source"
+            "file": "garden/hello.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "garden/Notes/Blend Two Common Ideas to Create an Exceptional Article.md",
+                "file": "garden/hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "9e8ac4585ed4470b",
   "lastOpenFiles": [
+    "garden/hello.md",
     "garden/Notes/Blend Two Common Ideas to Create an Exceptional Article.md",
     "garden/Notes/Cash is Useless.md",
     "garden/Notes/Buy assets as a means of survival.md",
     "garden/Notes/Better Time Management.md",
-    "garden/Notes/Beer Mode and Coffe Mode.md",
-    "garden/hello.md"
+    "garden/Notes/Beer Mode and Coffe Mode.md"
   ]
 }

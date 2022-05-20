@@ -32,4 +32,6 @@ The purpose of writing and publishing these notes is to practice [[Learning in p
 
 ---
 
-If you think this note resonated, be it positive or negative, ping me on Twitter.
+**If any of the note resonates with you, be it positive or negative, ping me on([Twitter](https://twitter.com/beingPax)).**
+
+---
